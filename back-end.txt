@@ -1,0 +1,5 @@
+1. HTML5, CSS, Javascript
+2. Git & Github
+3. NodeJS
+4. ExpressJS
+5. MongoDB 
