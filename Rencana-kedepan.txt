@@ -1,3 +1,5 @@
 1. Menjadi FullStack Developer
-2. Membuat Web Aplikasi 
+ - Harus menguasai materi front-end
+ - Harus menguasai materi back-end
+2. Membuat Web Aplikasi
 3. Mendapatkan project untuk kedepannnya
