@@ -1,3 +1,7 @@
 1. Menjadi FullStack Developer
+- FrontEnd
+- BackEnd
+- DevOps
+- UI / UX Designer
 2. Membuat Web Aplikasi 
 3. Mendapatkan project untuk kedepannnya
