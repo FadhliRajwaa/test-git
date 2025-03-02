@@ -1,0 +1,4 @@
+1. HTML5, CSS, Javascript
+2. Git & Github
+3. TailwindCss / Bootstrap
+4. Framework : React, Vue, Angular
